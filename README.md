@@ -7,6 +7,7 @@
 | [0494-target-sum](https://github.com/PrakritiChandel/LeetCode/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/PrakritiChandel/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/PrakritiChandel/LeetCode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
+| [0952-word-subsets](https://github.com/PrakritiChandel/LeetCode/tree/master/0952-word-subsets) |
 | [1025-minimum-cost-for-tickets](https://github.com/PrakritiChandel/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/PrakritiChandel/LeetCode/tree/master/1063-best-sightseeing-pair) |
 | [1524-string-matching-in-an-array](https://github.com/PrakritiChandel/LeetCode/tree/master/1524-string-matching-in-an-array) |
@@ -21,6 +22,7 @@
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/PrakritiChandel/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0952-word-subsets](https://github.com/PrakritiChandel/LeetCode/tree/master/0952-word-subsets) |
 ## Stack
 |  |
 | ------- |
@@ -45,6 +47,7 @@
 ## String
 |  |
 | ------- |
+| [0952-word-subsets](https://github.com/PrakritiChandel/LeetCode/tree/master/0952-word-subsets) |
 | [1524-string-matching-in-an-array](https://github.com/PrakritiChandel/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/PrakritiChandel/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/PrakritiChandel/LeetCode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
