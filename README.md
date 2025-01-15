@@ -92,6 +92,7 @@
 |  |
 | ------- |
 | [1502-construct-k-palindrome-strings](https://github.com/PrakritiChandel/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
+| [2509-minimize-xor](https://github.com/PrakritiChandel/LeetCode/tree/master/2509-minimize-xor) |
 ## Counting
 |  |
 | ------- |
@@ -100,5 +101,6 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [2509-minimize-xor](https://github.com/PrakritiChandel/LeetCode/tree/master/2509-minimize-xor) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/PrakritiChandel/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 <!---LeetCode Topics End-->
