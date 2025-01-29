@@ -129,22 +129,26 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0684-redundant-connection](https://github.com/PrakritiChandel/LeetCode/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/PrakritiChandel/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [1396-count-servers-that-communicate](https://github.com/PrakritiChandel/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1876-map-of-highest-peak](https://github.com/PrakritiChandel/LeetCode/tree/master/1876-map-of-highest-peak) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0684-redundant-connection](https://github.com/PrakritiChandel/LeetCode/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/PrakritiChandel/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [1396-count-servers-that-communicate](https://github.com/PrakritiChandel/LeetCode/tree/master/1396-count-servers-that-communicate) |
 ## Union Find
 |  |
 | ------- |
+| [0684-redundant-connection](https://github.com/PrakritiChandel/LeetCode/tree/master/0684-redundant-connection) |
 | [1396-count-servers-that-communicate](https://github.com/PrakritiChandel/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/PrakritiChandel/LeetCode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Graph
 |  |
 | ------- |
+| [0684-redundant-connection](https://github.com/PrakritiChandel/LeetCode/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/PrakritiChandel/LeetCode/tree/master/0820-find-eventual-safe-states) |
 ## Topological Sort
 |  |
