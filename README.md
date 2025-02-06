@@ -11,6 +11,7 @@
 | [0952-word-subsets](https://github.com/PrakritiChandel/LeetCode/tree/master/0952-word-subsets) |
 | [1025-minimum-cost-for-tickets](https://github.com/PrakritiChandel/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/PrakritiChandel/LeetCode/tree/master/1063-best-sightseeing-pair) |
+| [1364-tuple-with-same-product](https://github.com/PrakritiChandel/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/PrakritiChandel/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1524-string-matching-in-an-array](https://github.com/PrakritiChandel/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/PrakritiChandel/LeetCode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
@@ -37,6 +38,7 @@
 | ------- |
 | [0496-next-greater-element-i](https://github.com/PrakritiChandel/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0952-word-subsets](https://github.com/PrakritiChandel/LeetCode/tree/master/0952-word-subsets) |
+| [1364-tuple-with-same-product](https://github.com/PrakritiChandel/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1502-construct-k-palindrome-strings](https://github.com/PrakritiChandel/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/PrakritiChandel/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2685-first-completely-painted-row-or-column](https://github.com/PrakritiChandel/LeetCode/tree/master/2685-first-completely-painted-row-or-column) |
@@ -113,6 +115,7 @@
 ## Counting
 |  |
 | ------- |
+| [1364-tuple-with-same-product](https://github.com/PrakritiChandel/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/PrakritiChandel/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/PrakritiChandel/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/PrakritiChandel/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
