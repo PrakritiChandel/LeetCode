@@ -30,6 +30,7 @@
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/PrakritiChandel/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/PrakritiChandel/LeetCode/tree/master/2792-neighboring-bitwise-xor) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/PrakritiChandel/LeetCode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/PrakritiChandel/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/PrakritiChandel/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/PrakritiChandel/LeetCode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/PrakritiChandel/LeetCode/tree/master/3429-special-array-i) |
@@ -45,6 +46,7 @@
 | [2434-design-a-number-container-system](https://github.com/PrakritiChandel/LeetCode/tree/master/2434-design-a-number-container-system) |
 | [2685-first-completely-painted-row-or-column](https://github.com/PrakritiChandel/LeetCode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/PrakritiChandel/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/PrakritiChandel/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/PrakritiChandel/LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/PrakritiChandel/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Stack
@@ -122,6 +124,7 @@
 | [1396-count-servers-that-communicate](https://github.com/PrakritiChandel/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/PrakritiChandel/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/PrakritiChandel/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/PrakritiChandel/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/PrakritiChandel/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Bit Manipulation
 |  |
