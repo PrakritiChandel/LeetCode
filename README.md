@@ -55,6 +55,7 @@
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/PrakritiChandel/LeetCode/tree/master/0496-next-greater-element-i) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/PrakritiChandel/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [3447-clear-digits](https://github.com/PrakritiChandel/LeetCode/tree/master/3447-clear-digits) |
 ## Monotonic Stack
 |  |
@@ -83,6 +84,7 @@
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/PrakritiChandel/LeetCode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/PrakritiChandel/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/PrakritiChandel/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/PrakritiChandel/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/PrakritiChandel/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2465-shifting-letters-ii](https://github.com/PrakritiChandel/LeetCode/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/PrakritiChandel/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -195,6 +197,7 @@
 ## Simulation
 |  |
 | ------- |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/PrakritiChandel/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/PrakritiChandel/LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-clear-digits](https://github.com/PrakritiChandel/LeetCode/tree/master/3447-clear-digits) |
 ## Design
