@@ -24,6 +24,7 @@
 | [2358-number-of-ways-to-split-array](https://github.com/PrakritiChandel/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
 | [2448-count-number-of-bad-pairs](https://github.com/PrakritiChandel/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2465-shifting-letters-ii](https://github.com/PrakritiChandel/LeetCode/tree/master/2465-shifting-letters-ii) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/PrakritiChandel/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/PrakritiChandel/LeetCode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2685-first-completely-painted-row-or-column](https://github.com/PrakritiChandel/LeetCode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/PrakritiChandel/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -46,6 +47,7 @@
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/PrakritiChandel/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2434-design-a-number-container-system](https://github.com/PrakritiChandel/LeetCode/tree/master/2434-design-a-number-container-system) |
 | [2448-count-number-of-bad-pairs](https://github.com/PrakritiChandel/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/PrakritiChandel/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2685-first-completely-painted-row-or-column](https://github.com/PrakritiChandel/LeetCode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/PrakritiChandel/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/PrakritiChandel/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -193,6 +195,7 @@
 ## Sorting
 |  |
 | ------- |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/PrakritiChandel/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/PrakritiChandel/LeetCode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Simulation
 |  |
@@ -208,6 +211,7 @@
 |  |
 | ------- |
 | [2434-design-a-number-container-system](https://github.com/PrakritiChandel/LeetCode/tree/master/2434-design-a-number-container-system) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/PrakritiChandel/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Ordered Set
 |  |
 | ------- |
