@@ -8,6 +8,7 @@
 | [0496-next-greater-element-i](https://github.com/PrakritiChandel/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/PrakritiChandel/LeetCode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0854-making-a-large-island](https://github.com/PrakritiChandel/LeetCode/tree/master/0854-making-a-large-island) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/PrakritiChandel/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0952-word-subsets](https://github.com/PrakritiChandel/LeetCode/tree/master/0952-word-subsets) |
 | [1025-minimum-cost-for-tickets](https://github.com/PrakritiChandel/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/PrakritiChandel/LeetCode/tree/master/1063-best-sightseeing-pair) |
@@ -44,6 +45,7 @@
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/PrakritiChandel/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/PrakritiChandel/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0952-word-subsets](https://github.com/PrakritiChandel/LeetCode/tree/master/0952-word-subsets) |
 | [1160-letter-tile-possibilities](https://github.com/PrakritiChandel/LeetCode/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/PrakritiChandel/LeetCode/tree/master/1364-tuple-with-same-product) |
@@ -250,11 +252,17 @@
 ## Tree
 |  |
 | ------- |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/PrakritiChandel/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/PrakritiChandel/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/PrakritiChandel/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/PrakritiChandel/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/PrakritiChandel/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/PrakritiChandel/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/PrakritiChandel/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 <!---LeetCode Topics End-->
