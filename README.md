@@ -116,6 +116,7 @@
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/PrakritiChandel/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/PrakritiChandel/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/PrakritiChandel/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/PrakritiChandel/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2465-shifting-letters-ii](https://github.com/PrakritiChandel/LeetCode/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/PrakritiChandel/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/PrakritiChandel/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
@@ -298,4 +299,8 @@
 |  |
 | ------- |
 | [2610-closest-prime-numbers-in-range](https://github.com/PrakritiChandel/LeetCode/tree/master/2610-closest-prime-numbers-in-range) |
+## Sliding Window
+|  |
+| ------- |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/PrakritiChandel/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 <!---LeetCode Topics End-->
