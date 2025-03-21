@@ -27,6 +27,7 @@
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/PrakritiChandel/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/PrakritiChandel/LeetCode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2145-grid-game](https://github.com/PrakritiChandel/LeetCode/tree/master/2145-grid-game) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/PrakritiChandel/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/PrakritiChandel/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2308-divide-array-into-equal-pairs](https://github.com/PrakritiChandel/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2358-number-of-ways-to-split-array](https://github.com/PrakritiChandel/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
@@ -70,6 +71,7 @@
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/PrakritiChandel/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1502-construct-k-palindrome-strings](https://github.com/PrakritiChandel/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/PrakritiChandel/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/PrakritiChandel/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2308-divide-array-into-equal-pairs](https://github.com/PrakritiChandel/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2434-design-a-number-container-system](https://github.com/PrakritiChandel/LeetCode/tree/master/2434-design-a-number-container-system) |
 | [2448-count-number-of-bad-pairs](https://github.com/PrakritiChandel/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
@@ -129,6 +131,7 @@
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/PrakritiChandel/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/PrakritiChandel/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/PrakritiChandel/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/PrakritiChandel/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/PrakritiChandel/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/PrakritiChandel/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2465-shifting-letters-ii](https://github.com/PrakritiChandel/LeetCode/tree/master/2465-shifting-letters-ii) |
@@ -249,6 +252,7 @@
 | ------- |
 | [0684-redundant-connection](https://github.com/PrakritiChandel/LeetCode/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/PrakritiChandel/LeetCode/tree/master/0820-find-eventual-safe-states) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/PrakritiChandel/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/PrakritiChandel/LeetCode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/PrakritiChandel/LeetCode/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/PrakritiChandel/LeetCode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
@@ -256,6 +260,7 @@
 |  |
 | ------- |
 | [0820-find-eventual-safe-states](https://github.com/PrakritiChandel/LeetCode/tree/master/0820-find-eventual-safe-states) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/PrakritiChandel/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 ## Sorting
 |  |
 | ------- |
