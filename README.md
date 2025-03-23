@@ -106,6 +106,7 @@
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/PrakritiChandel/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/PrakritiChandel/LeetCode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/PrakritiChandel/LeetCode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/PrakritiChandel/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2562-count-ways-to-build-good-strings](https://github.com/PrakritiChandel/LeetCode/tree/master/2562-count-ways-to-build-good-strings) |
 ## Backtracking
 |  |
@@ -255,6 +256,7 @@
 | ------- |
 | [0684-redundant-connection](https://github.com/PrakritiChandel/LeetCode/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/PrakritiChandel/LeetCode/tree/master/0820-find-eventual-safe-states) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/PrakritiChandel/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/PrakritiChandel/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/PrakritiChandel/LeetCode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/PrakritiChandel/LeetCode/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
@@ -264,6 +266,7 @@
 |  |
 | ------- |
 | [0820-find-eventual-safe-states](https://github.com/PrakritiChandel/LeetCode/tree/master/0820-find-eventual-safe-states) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/PrakritiChandel/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/PrakritiChandel/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 ## Sorting
 |  |
@@ -354,4 +357,8 @@
 |  |
 | ------- |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/PrakritiChandel/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+## Shortest Path
+|  |
+| ------- |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/PrakritiChandel/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 <!---LeetCode Topics End-->
