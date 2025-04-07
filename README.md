@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/PrakritiChandel/LeetCode/tree/master/0368-largest-divisible-subset) |
+| [0416-partition-equal-subset-sum](https://github.com/PrakritiChandel/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/PrakritiChandel/LeetCode/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/PrakritiChandel/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/PrakritiChandel/LeetCode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
@@ -115,6 +116,7 @@
 |  |
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/PrakritiChandel/LeetCode/tree/master/0368-largest-divisible-subset) |
+| [0416-partition-equal-subset-sum](https://github.com/PrakritiChandel/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/PrakritiChandel/LeetCode/tree/master/0494-target-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/PrakritiChandel/LeetCode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/PrakritiChandel/LeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
