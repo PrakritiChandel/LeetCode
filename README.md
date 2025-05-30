@@ -6,6 +6,7 @@
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/PrakritiChandel/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/PrakritiChandel/LeetCode/tree/master/0075-sort-colors) |
+| [0287-find-the-duplicate-number](https://github.com/PrakritiChandel/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0368-largest-divisible-subset](https://github.com/PrakritiChandel/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/PrakritiChandel/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/PrakritiChandel/LeetCode/tree/master/0494-target-sum) |
@@ -309,6 +310,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/PrakritiChandel/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/PrakritiChandel/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2308-divide-array-into-equal-pairs](https://github.com/PrakritiChandel/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/PrakritiChandel/LeetCode/tree/master/2478-longest-nice-subarray) |
@@ -514,6 +516,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/PrakritiChandel/LeetCode/tree/master/0075-sort-colors) |
+| [0287-find-the-duplicate-number](https://github.com/PrakritiChandel/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0768-partition-labels](https://github.com/PrakritiChandel/LeetCode/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/PrakritiChandel/LeetCode/tree/master/0868-push-dominoes) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/PrakritiChandel/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
@@ -542,6 +545,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/PrakritiChandel/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/PrakritiChandel/LeetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/PrakritiChandel/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2280-count-good-triplets-in-an-array](https://github.com/PrakritiChandel/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
