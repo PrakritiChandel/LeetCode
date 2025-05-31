@@ -17,6 +17,7 @@
 | [0861-flipping-an-image](https://github.com/PrakritiChandel/LeetCode/tree/master/0861-flipping-an-image) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/PrakritiChandel/LeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/PrakritiChandel/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0945-snakes-and-ladders](https://github.com/PrakritiChandel/LeetCode/tree/master/0945-snakes-and-ladders) |
 | [0952-word-subsets](https://github.com/PrakritiChandel/LeetCode/tree/master/0952-word-subsets) |
 | [1025-minimum-cost-for-tickets](https://github.com/PrakritiChandel/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/PrakritiChandel/LeetCode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
@@ -333,6 +334,7 @@
 | [0073-set-matrix-zeroes](https://github.com/PrakritiChandel/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0854-making-a-large-island](https://github.com/PrakritiChandel/LeetCode/tree/master/0854-making-a-large-island) |
 | [0861-flipping-an-image](https://github.com/PrakritiChandel/LeetCode/tree/master/0861-flipping-an-image) |
+| [0945-snakes-and-ladders](https://github.com/PrakritiChandel/LeetCode/tree/master/0945-snakes-and-ladders) |
 | [1396-count-servers-that-communicate](https://github.com/PrakritiChandel/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1876-map-of-highest-peak](https://github.com/PrakritiChandel/LeetCode/tree/master/1876-map-of-highest-peak) |
 | [2145-grid-game](https://github.com/PrakritiChandel/LeetCode/tree/master/2145-grid-game) |
@@ -349,6 +351,7 @@
 | [0684-redundant-connection](https://github.com/PrakritiChandel/LeetCode/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/PrakritiChandel/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/PrakritiChandel/LeetCode/tree/master/0854-making-a-large-island) |
+| [0945-snakes-and-ladders](https://github.com/PrakritiChandel/LeetCode/tree/master/0945-snakes-and-ladders) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/PrakritiChandel/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/PrakritiChandel/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/PrakritiChandel/LeetCode/tree/master/1396-count-servers-that-communicate) |
