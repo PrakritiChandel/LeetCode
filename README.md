@@ -228,6 +228,7 @@
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/PrakritiChandel/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2465-shifting-letters-ii](https://github.com/PrakritiChandel/LeetCode/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/PrakritiChandel/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
+| [2816-lexicographically-smallest-palindrome](https://github.com/PrakritiChandel/LeetCode/tree/master/2816-lexicographically-smallest-palindrome) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/PrakritiChandel/LeetCode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/PrakritiChandel/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3194-find-words-containing-character](https://github.com/PrakritiChandel/LeetCode/tree/master/3194-find-words-containing-character) |
@@ -286,6 +287,7 @@
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/PrakritiChandel/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2509-minimize-xor](https://github.com/PrakritiChandel/LeetCode/tree/master/2509-minimize-xor) |
 | [2681-put-marbles-in-bags](https://github.com/PrakritiChandel/LeetCode/tree/master/2681-put-marbles-in-bags) |
+| [2816-lexicographically-smallest-palindrome](https://github.com/PrakritiChandel/LeetCode/tree/master/2816-lexicographically-smallest-palindrome) |
 | [3001-apply-operations-to-maximize-score](https://github.com/PrakritiChandel/LeetCode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/PrakritiChandel/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/PrakritiChandel/LeetCode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
@@ -531,6 +533,7 @@
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/PrakritiChandel/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/PrakritiChandel/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/PrakritiChandel/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [2816-lexicographically-smallest-palindrome](https://github.com/PrakritiChandel/LeetCode/tree/master/2816-lexicographically-smallest-palindrome) |
 ## Number Theory
 |  |
 | ------- |
