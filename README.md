@@ -6,6 +6,7 @@
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/PrakritiChandel/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/PrakritiChandel/LeetCode/tree/master/0075-sort-colors) |
+| [0135-candy](https://github.com/PrakritiChandel/LeetCode/tree/master/0135-candy) |
 | [0287-find-the-duplicate-number](https://github.com/PrakritiChandel/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0368-largest-divisible-subset](https://github.com/PrakritiChandel/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/PrakritiChandel/LeetCode/tree/master/0416-partition-equal-subset-sum) |
@@ -279,6 +280,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0135-candy](https://github.com/PrakritiChandel/LeetCode/tree/master/0135-candy) |
 | [0768-partition-labels](https://github.com/PrakritiChandel/LeetCode/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/PrakritiChandel/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/PrakritiChandel/LeetCode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
