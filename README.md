@@ -29,6 +29,7 @@
 | [1364-tuple-with-same-product](https://github.com/PrakritiChandel/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/PrakritiChandel/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/PrakritiChandel/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1424-maximum-candies-you-can-get-from-boxes](https://github.com/PrakritiChandel/LeetCode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1477-product-of-the-last-k-numbers](https://github.com/PrakritiChandel/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1524-string-matching-in-an-array](https://github.com/PrakritiChandel/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/PrakritiChandel/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -359,6 +360,7 @@
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/PrakritiChandel/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/PrakritiChandel/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/PrakritiChandel/LeetCode/tree/master/1396-count-servers-that-communicate) |
+| [1424-maximum-candies-you-can-get-from-boxes](https://github.com/PrakritiChandel/LeetCode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1876-map-of-highest-peak](https://github.com/PrakritiChandel/LeetCode/tree/master/1876-map-of-highest-peak) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/PrakritiChandel/LeetCode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/PrakritiChandel/LeetCode/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
@@ -400,6 +402,7 @@
 | ------- |
 | [0684-redundant-connection](https://github.com/PrakritiChandel/LeetCode/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/PrakritiChandel/LeetCode/tree/master/0820-find-eventual-safe-states) |
+| [1424-maximum-candies-you-can-get-from-boxes](https://github.com/PrakritiChandel/LeetCode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/PrakritiChandel/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/PrakritiChandel/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/PrakritiChandel/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
