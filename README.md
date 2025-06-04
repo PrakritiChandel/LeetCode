@@ -209,6 +209,7 @@
 |  |
 | ------- |
 | [0038-count-and-say](https://github.com/PrakritiChandel/LeetCode/tree/master/0038-count-and-say) |
+| [0345-reverse-vowels-of-a-string](https://github.com/PrakritiChandel/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0768-partition-labels](https://github.com/PrakritiChandel/LeetCode/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/PrakritiChandel/LeetCode/tree/master/0868-push-dominoes) |
 | [0952-word-subsets](https://github.com/PrakritiChandel/LeetCode/tree/master/0952-word-subsets) |
@@ -532,6 +533,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/PrakritiChandel/LeetCode/tree/master/0075-sort-colors) |
 | [0287-find-the-duplicate-number](https://github.com/PrakritiChandel/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0345-reverse-vowels-of-a-string](https://github.com/PrakritiChandel/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0768-partition-labels](https://github.com/PrakritiChandel/LeetCode/tree/master/0768-partition-labels) |
 | [0861-flipping-an-image](https://github.com/PrakritiChandel/LeetCode/tree/master/0861-flipping-an-image) |
 | [0868-push-dominoes](https://github.com/PrakritiChandel/LeetCode/tree/master/0868-push-dominoes) |
