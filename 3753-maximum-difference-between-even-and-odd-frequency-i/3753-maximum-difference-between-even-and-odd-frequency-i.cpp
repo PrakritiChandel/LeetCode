@@ -1,40 +1,22 @@
 class Solution {
 public:
     int maxDifference(string s) {
-        sort(s.begin(), s.end());
-        int odd = 0, even = INT_MAX;
-        char c = s[0];
-        int cnt = 1;
-        for (int i = 1; i < s.size(); i++) {
-            if (c == s[i]) {
-                cnt++;
-            } else {
-                
-                if (cnt % 2 == 0) {
-                    if (cnt<even) {
-                        even = cnt;
-                    }
-                } else {
-                    if (cnt > odd) {
-                        odd = cnt;
-                    }
-                }
+        int od_max = INT_MIN, ev_min = INT_MAX;
 
-                c = s[i];
-                cnt = 1;
+        unordered_map<char,int> frq;
+        for(auto& val:s){
+            frq[val]++;
+        }
 
+        for(auto& val:frq){
+            if(val.second&1){
+                od_max = max(od_max, val.second);
+            }
+            else{
+                ev_min = min(ev_min, val.second);
             }
         }
-        
-                if (cnt % 2 == 0) {
-                    if (cnt < even) {
-                        even = cnt;
-                    }
-                } else {
-                    if (cnt > odd) {
-                        odd = cnt;
-                    }
-                }
-        return (odd-even);
+
+        return od_max-ev_min;
     }
 };
