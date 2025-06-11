@@ -214,6 +214,7 @@
 ## String
 |  |
 | ------- |
+| [0006-zigzag-conversion](https://github.com/PrakritiChandel/LeetCode/tree/master/0006-zigzag-conversion) |
 | [0038-count-and-say](https://github.com/PrakritiChandel/LeetCode/tree/master/0038-count-and-say) |
 | [0151-reverse-words-in-a-string](https://github.com/PrakritiChandel/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/PrakritiChandel/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
