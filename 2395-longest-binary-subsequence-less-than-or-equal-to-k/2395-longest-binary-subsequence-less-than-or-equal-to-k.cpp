@@ -1,26 +1,28 @@
 class Solution {
 public:
     int longestSubsequence(string s, int k) {
-        int n = s.size();
-        int zeros = 0, ones = 0;
-        long long value = 0, pow = 1;
-
-        for (char c : s) {
-            if (c == '0') zeros++;
-        }
-
-        for (int i = n - 1; i >= 0; i--) {
-            if (s[i] == '1') {
-                if (value + pow > k) {
-                    continue; // Skip this '1' as it would exceed k
+        int n=s.size();
+        int val=0;
+        int cnt=0;
+        int i=0;
+        while(i<min(n,32)){
+            if(s[n-i-1]=='1'){
+                long long power=pow(2,i);
+                if(val+power>k){
+                    break;
                 }
-                value += pow;
-                ones++;
+                val+=power;
             }
-            pow <<= 1;
-            if (pow > k) break; // Further bits would exceed k
+            i++;
         }
 
-        return zeros + ones;
+        int removed_count=0;
+        while(i<n){
+            if(s[n-i-1]=='1'){
+                removed_count++;
+            }
+            i++;
+        }
+        return n-removed_count;
     }
 };
