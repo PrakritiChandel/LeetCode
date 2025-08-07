@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/PrakritiChandel/LeetCode/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/PrakritiChandel/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/PrakritiChandel/LeetCode/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/PrakritiChandel/LeetCode/tree/master/0118-pascals-triangle) |
@@ -153,6 +154,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/PrakritiChandel/LeetCode/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/PrakritiChandel/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0496-next-greater-element-i](https://github.com/PrakritiChandel/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0594-longest-harmonious-subsequence](https://github.com/PrakritiChandel/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
