@@ -214,6 +214,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/PrakritiChandel/LeetCode/tree/master/0020-valid-parentheses) |
 | [0496-next-greater-element-i](https://github.com/PrakritiChandel/LeetCode/tree/master/0496-next-greater-element-i) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/PrakritiChandel/LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/PrakritiChandel/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -281,6 +282,7 @@
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/PrakritiChandel/LeetCode/tree/master/0006-zigzag-conversion) |
+| [0020-valid-parentheses](https://github.com/PrakritiChandel/LeetCode/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/PrakritiChandel/LeetCode/tree/master/0038-count-and-say) |
 | [0125-valid-palindrome](https://github.com/PrakritiChandel/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/PrakritiChandel/LeetCode/tree/master/0151-reverse-words-in-a-string) |
