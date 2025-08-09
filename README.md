@@ -448,6 +448,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/PrakritiChandel/LeetCode/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/PrakritiChandel/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0861-flipping-an-image](https://github.com/PrakritiChandel/LeetCode/tree/master/0861-flipping-an-image) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/PrakritiChandel/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
@@ -640,6 +641,7 @@
 ## Math
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/PrakritiChandel/LeetCode/tree/master/0231-power-of-two) |
 | [0368-largest-divisible-subset](https://github.com/PrakritiChandel/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0797-rabbits-in-forest](https://github.com/PrakritiChandel/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0826-soup-servings](https://github.com/PrakritiChandel/LeetCode/tree/master/0826-soup-servings) |
@@ -810,6 +812,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/PrakritiChandel/LeetCode/tree/master/0231-power-of-two) |
 | [2050-count-good-numbers](https://github.com/PrakritiChandel/LeetCode/tree/master/2050-count-good-numbers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/PrakritiChandel/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Binary Indexed Tree
