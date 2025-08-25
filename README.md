@@ -14,6 +14,7 @@
 | [0416-partition-equal-subset-sum](https://github.com/PrakritiChandel/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/PrakritiChandel/LeetCode/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/PrakritiChandel/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0498-diagonal-traverse](https://github.com/PrakritiChandel/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0594-longest-harmonious-subsequence](https://github.com/PrakritiChandel/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0679-24-game](https://github.com/PrakritiChandel/LeetCode/tree/master/0679-24-game) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/PrakritiChandel/LeetCode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
@@ -499,6 +500,7 @@
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/PrakritiChandel/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0498-diagonal-traverse](https://github.com/PrakritiChandel/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0854-making-a-large-island](https://github.com/PrakritiChandel/LeetCode/tree/master/0854-making-a-large-island) |
 | [0861-flipping-an-image](https://github.com/PrakritiChandel/LeetCode/tree/master/0861-flipping-an-image) |
 | [0945-snakes-and-ladders](https://github.com/PrakritiChandel/LeetCode/tree/master/0945-snakes-and-ladders) |
@@ -626,6 +628,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0498-diagonal-traverse](https://github.com/PrakritiChandel/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0861-flipping-an-image](https://github.com/PrakritiChandel/LeetCode/tree/master/0861-flipping-an-image) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/PrakritiChandel/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2048-build-array-from-permutation](https://github.com/PrakritiChandel/LeetCode/tree/master/2048-build-array-from-permutation) |
