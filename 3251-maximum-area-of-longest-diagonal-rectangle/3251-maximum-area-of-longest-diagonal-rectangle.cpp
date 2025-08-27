@@ -1,26 +1,24 @@
 class Solution {
 public:
-    int areaOfMaxDiagonal(vector<vector<int>>& rects) {
-        int maxD = 0;
-        int maxA = 0;
+    int areaOfMaxDiagonal(std::vector<std::vector<int>>& dimensions) {
+        long long max_diagonal_sq = 0;
+        int max_area = 0;
 
-        for (auto &rect : rects) {
-            int x = rect[0];
-            int y = rect[1];
-            int d = x * x + y * y;
-            int a = x * y;
+        for (const auto& dim : dimensions) {
+            int length = dim[0];
+            int width = dim[1];
 
-            if (d == maxD) {
-                maxA = max(maxA, a);
-                continue;
-            }
+            long long current_diagonal_sq = (long long)length * length + (long long)width * width;
+            int current_area = length * width;
 
-            if (d > maxD) {
-                maxD = d;
-                maxA = a;
+            if (current_diagonal_sq > max_diagonal_sq) {
+                max_diagonal_sq = current_diagonal_sq;
+                max_area = current_area;
+            } else if (current_diagonal_sq == max_diagonal_sq) {
+                max_area = std::max(max_area, current_area);
             }
         }
 
-        return maxA;
+        return max_area;
     }
 };
