@@ -1,30 +1,44 @@
 class Solution {
 public:
+    void sortDiagonal(int r, int c, vector<vector<int>> & grid, bool asc){
+        vector<int> vec;
+        int n=grid.size();
+        int i=r;
+        int j=c;
+
+        while(i<n && j<n){
+            vec.push_back(grid[i][j]);
+            i++;
+            j++;
+        }
+
+        if(asc){
+            sort(begin(vec),end(vec));
+        }
+        else{
+            sort(rbegin(vec),rend(vec));
+        }
+
+        i=r;
+        j=c;
+
+        for(int & val:vec){
+            grid[i][j]=val;
+            i++;
+            j++;
+        }
+    }
+
     vector<vector<int>> sortMatrix(vector<vector<int>>& grid) {
-        int n = grid.size(), m = grid[0].size();
-        unordered_map<int, priority_queue<int>> maxHeaps;
-        unordered_map<int, priority_queue<int, vector<int>, greater<int>>> minHeaps;
-
-        for (int i = 0; i < n; i++) {
-            for (int j = 0; j < m; j++) {
-                int key = i - j;
-                if (key < 0) minHeaps[key].push(grid[i][j]);
-                else maxHeaps[key].push(grid[i][j]);
-            }
+        int n=grid.size();
+        vector<int> vec;
+        for(int r=0;r<n;r++){
+            sortDiagonal(r,0,grid,false);
+        }
+        for(int c=1;c<n;c++){
+            sortDiagonal(0,c,grid,true);
         }
 
-        for (int i = 0; i < n; i++) {
-            for (int j = 0; j < m; j++) {
-                int key = i - j;
-                if (key < 0) {
-                    grid[i][j] = minHeaps[key].top();
-                    minHeaps[key].pop();
-                } else {
-                    grid[i][j] = maxHeaps[key].top();
-                    maxHeaps[key].pop();
-                }
-            }
-        }
         return grid;
     }
 };
