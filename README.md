@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/PrakritiChandel/LeetCode/tree/master/0001-two-sum) |
+| [0036-valid-sudoku](https://github.com/PrakritiChandel/LeetCode/tree/master/0036-valid-sudoku) |
 | [0073-set-matrix-zeroes](https://github.com/PrakritiChandel/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/PrakritiChandel/LeetCode/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/PrakritiChandel/LeetCode/tree/master/0118-pascals-triangle) |
@@ -167,6 +168,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/PrakritiChandel/LeetCode/tree/master/0001-two-sum) |
+| [0036-valid-sudoku](https://github.com/PrakritiChandel/LeetCode/tree/master/0036-valid-sudoku) |
 | [0073-set-matrix-zeroes](https://github.com/PrakritiChandel/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0496-next-greater-element-i](https://github.com/PrakritiChandel/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0594-longest-harmonious-subsequence](https://github.com/PrakritiChandel/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
@@ -503,6 +505,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/PrakritiChandel/LeetCode/tree/master/0036-valid-sudoku) |
 | [0073-set-matrix-zeroes](https://github.com/PrakritiChandel/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0498-diagonal-traverse](https://github.com/PrakritiChandel/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0854-making-a-large-island](https://github.com/PrakritiChandel/LeetCode/tree/master/0854-making-a-large-island) |
