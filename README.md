@@ -389,6 +389,7 @@
 | [0474-ones-and-zeroes](https://github.com/PrakritiChandel/LeetCode/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/PrakritiChandel/LeetCode/tree/master/0494-target-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/PrakritiChandel/LeetCode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/PrakritiChandel/LeetCode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0806-domino-and-tromino-tiling](https://github.com/PrakritiChandel/LeetCode/tree/master/0806-domino-and-tromino-tiling) |
 | [0826-soup-servings](https://github.com/PrakritiChandel/LeetCode/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/PrakritiChandel/LeetCode/tree/master/0867-new-21-game) |
@@ -473,6 +474,7 @@
 | [0166-fraction-to-recurring-decimal](https://github.com/PrakritiChandel/LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0345-reverse-vowels-of-a-string](https://github.com/PrakritiChandel/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0474-ones-and-zeroes](https://github.com/PrakritiChandel/LeetCode/tree/master/0474-ones-and-zeroes) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/PrakritiChandel/LeetCode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0756-pyramid-transition-matrix](https://github.com/PrakritiChandel/LeetCode/tree/master/0756-pyramid-transition-matrix) |
 | [0768-partition-labels](https://github.com/PrakritiChandel/LeetCode/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/PrakritiChandel/LeetCode/tree/master/0868-push-dominoes) |
