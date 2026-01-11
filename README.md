@@ -11,6 +11,7 @@
 | [0066-plus-one](https://github.com/PrakritiChandel/LeetCode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/PrakritiChandel/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/PrakritiChandel/LeetCode/tree/master/0075-sort-colors) |
+| [0085-maximal-rectangle](https://github.com/PrakritiChandel/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/PrakritiChandel/LeetCode/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/PrakritiChandel/LeetCode/tree/master/0120-triangle) |
 | [0135-candy](https://github.com/PrakritiChandel/LeetCode/tree/master/0135-candy) |
@@ -358,6 +359,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/PrakritiChandel/LeetCode/tree/master/0020-valid-parentheses) |
+| [0085-maximal-rectangle](https://github.com/PrakritiChandel/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0496-next-greater-element-i](https://github.com/PrakritiChandel/LeetCode/tree/master/0496-next-greater-element-i) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/PrakritiChandel/LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1628-count-submatrices-with-all-ones](https://github.com/PrakritiChandel/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
@@ -374,6 +376,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/PrakritiChandel/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0496-next-greater-element-i](https://github.com/PrakritiChandel/LeetCode/tree/master/0496-next-greater-element-i) |
 | [1628-count-submatrices-with-all-ones](https://github.com/PrakritiChandel/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/PrakritiChandel/LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
@@ -382,6 +385,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/PrakritiChandel/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/PrakritiChandel/LeetCode/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/PrakritiChandel/LeetCode/tree/master/0120-triangle) |
 | [0368-largest-divisible-subset](https://github.com/PrakritiChandel/LeetCode/tree/master/0368-largest-divisible-subset) |
@@ -747,6 +751,7 @@
 | [0036-valid-sudoku](https://github.com/PrakritiChandel/LeetCode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/PrakritiChandel/LeetCode/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/PrakritiChandel/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0085-maximal-rectangle](https://github.com/PrakritiChandel/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0407-trapping-rain-water-ii](https://github.com/PrakritiChandel/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/PrakritiChandel/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0498-diagonal-traverse](https://github.com/PrakritiChandel/LeetCode/tree/master/0498-diagonal-traverse) |
