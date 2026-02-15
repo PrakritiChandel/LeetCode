@@ -479,6 +479,7 @@
 | [0006-zigzag-conversion](https://github.com/PrakritiChandel/LeetCode/tree/master/0006-zigzag-conversion) |
 | [0020-valid-parentheses](https://github.com/PrakritiChandel/LeetCode/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/PrakritiChandel/LeetCode/tree/master/0038-count-and-say) |
+| [0067-add-binary](https://github.com/PrakritiChandel/LeetCode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/PrakritiChandel/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/PrakritiChandel/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/PrakritiChandel/LeetCode/tree/master/0165-compare-version-numbers) |
@@ -715,6 +716,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/PrakritiChandel/LeetCode/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/PrakritiChandel/LeetCode/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/PrakritiChandel/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/PrakritiChandel/LeetCode/tree/master/0342-power-of-four) |
@@ -954,6 +956,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/PrakritiChandel/LeetCode/tree/master/0067-add-binary) |
 | [0498-diagonal-traverse](https://github.com/PrakritiChandel/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0861-flipping-an-image](https://github.com/PrakritiChandel/LeetCode/tree/master/0861-flipping-an-image) |
 | [1642-water-bottles](https://github.com/PrakritiChandel/LeetCode/tree/master/1642-water-bottles) |
@@ -1034,6 +1037,7 @@
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/PrakritiChandel/LeetCode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/PrakritiChandel/LeetCode/tree/master/0067-add-binary) |
 | [0166-fraction-to-recurring-decimal](https://github.com/PrakritiChandel/LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0231-power-of-two](https://github.com/PrakritiChandel/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/PrakritiChandel/LeetCode/tree/master/0326-power-of-three) |
